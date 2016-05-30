@@ -25,6 +25,12 @@ Explanation of URL Structure:
 	
 	http://localhost:8488/cfml-example-standalone/subpage.cfc?method=detail
 	
+	Don't want debugging enabled? Go to the lucee server admin
+	http://localhost:8488/lucee/admin/server.cfm
+	password: 3292hay
+	
+	Click on debugging templates, and delete the Debug / modern template.
+	
 Explanation of CFC Structure:
 	For custom landing pages, we've made a CFC that extends layout.cfc.
 	
